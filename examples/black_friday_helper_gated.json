@@ -1,0 +1,12 @@
+{
+  "name": "Black Friday helper agent (behind a gate)",
+  "grants": {
+    "schema_browse": ["read"],
+    "query_run": ["read", "write"],
+    "delivery_send": ["execute"],
+    "workflow_control": ["list", "start", "stop"],
+    "js_execute": ["read", "write", "http"]
+  },
+  "controls": ["sql_write_block", "protected_workflows", "egress_block", "pii_masking",
+               "js_dry_run_only", "presend_qa", "human_approval_on_send"]
+}

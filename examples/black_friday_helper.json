@@ -1,0 +1,11 @@
+{
+  "name": "Black Friday helper agent (as first configured)",
+  "grants": {
+    "schema_browse": ["read"],
+    "query_run": ["read", "write"],
+    "delivery_send": ["execute"],
+    "workflow_control": ["list", "start", "stop"],
+    "js_execute": ["read", "write", "http"]
+  },
+  "controls": []
+}
