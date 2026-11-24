@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sghatge/sghatge/main/assets/portfolio/project-banner.svg" width="100%" alt="Sangram Ghatge engineering portfolio banner">
+
+**SAFE TO SEND · GOVERNED AI ENGINEERING SERIES · SAFE TO SEND 01 AGENT BLAST RADIUS**
+
+[GitHub Profile](https://github.com/sghatge) · [Portfolio](https://sghatge.github.io/adobe-campaign-v8-governance/)
+
+</div>
+
+---
+
 # safe-to-send-01 · Agent Blast Radius
 
 ![Safe to Send, Episode 01](docs/episode.png)
